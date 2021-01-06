@@ -1,4 +1,6 @@
 ## codewars
+https://www.codewars.com/dashboard
+
 This is my training on Codewars.
 --------------------------------
 1. 8 kyu - Multiply
