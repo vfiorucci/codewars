@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-## codewars
-=======
 ## Codewars
 -----------
->>>>>>> 24049c69530d3182659d8f0c9f26fb810ee4e33c
 https://www.codewars.com/dashboard
 
 This is my training on Codewars.
